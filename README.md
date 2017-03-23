@@ -1,4 +1,4 @@
-# Task::Alien::DistZilla [![Build Status](https://secure.travis-ci.org/plicease/Task-Alien-DistZilla.png)](http://travis-ci.org/plicease/Task-Alien-DistZilla)
+# Task::Alien::DistZilla
 
 Install Alien Dist::Zilla developer tools
 
